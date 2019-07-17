@@ -1,0 +1,22 @@
+/* Header Styles */
+
+header {
+    background-color: gray;
+    color: white;
+    display: inline-block;
+    position: fixed;
+    height: 98%;
+    width: 20%
+}
+
+header > div {
+    
+}
+
+
+/* Main Styles */
+
+main {
+    display: inline-block;
+    margin-left: 23%
+}
