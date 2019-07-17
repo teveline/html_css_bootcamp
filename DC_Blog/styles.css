@@ -56,6 +56,12 @@ div {
 main > ul {
     display: flex;
     padding-left: 0em;
+    padding-top: 0em;
     margin-left: 0em;
-    background-color: pink;
+    
+}
+
+main > ul > li {
+    padding: 0em;
+    padding-right: 20px;
 }
